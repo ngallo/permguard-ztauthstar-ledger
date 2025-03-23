@@ -1,4 +1,4 @@
-module github.com/permguard/permguard-objstorage
+module github.com/permguard/permguard-ztauthstar-ledger
 
 go 1.23.5
 
