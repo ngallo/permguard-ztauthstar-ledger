@@ -19,7 +19,7 @@ package objects
 import (
 	"errors"
 
-	azcopier "github.com/permguard/permguard-core/pkg/extensions/copier"
+	azcopier "github.com/permguard/permguard-common/pkg/extensions/copier"
 )
 
 // SectionObject represents a section object.

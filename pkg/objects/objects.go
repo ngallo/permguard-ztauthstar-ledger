@@ -21,8 +21,8 @@ import (
 	"strings"
 	"time"
 
-	azcopier "github.com/permguard/permguard-core/pkg/extensions/copier"
-	azcrypto "github.com/permguard/permguard-core/pkg/extensions/crypto"
+	azcopier "github.com/permguard/permguard-common/pkg/extensions/copier"
+	azcrypto "github.com/permguard/permguard-common/pkg/extensions/crypto"
 )
 
 const (
