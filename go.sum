@@ -2,8 +2,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/jinzhu/copier v0.4.0 h1:w3ciUoD19shMCRargcpm0cm91ytaBhDvuRpz1ODO/U8=
 github.com/jinzhu/copier v0.4.0/go.mod h1:DfbEm0FYsaqBcKcFuvmOZb218JkPGtvSHsKg8S8hyyg=
-github.com/permguard/permguard-common v0.0.1-0.20250324093240-cdbc35bbee28 h1:l2mu/FttzufmIyjVnj2FzvS8wEWbPtgbZApa9rlGVsM=
-github.com/permguard/permguard-common v0.0.1-0.20250324093240-cdbc35bbee28/go.mod h1:P+WV5eQPYYOHH4q9WoiLMiSiaTAla/oXxmQZ9+9SQc8=
+github.com/permguard/permguard-common v0.0.1-0.20250324235958-a7cfb846171e h1:twWa6q9ucVIlYqawyVFwnTySDA32U4hpDdfydmNB0jk=
+github.com/permguard/permguard-common v0.0.1-0.20250324235958-a7cfb846171e/go.mod h1:lB0itvH4Zfo6VZGSqKvX5hY/QXOzgvyKgtGllcdIrkk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=

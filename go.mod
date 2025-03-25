@@ -1,9 +1,9 @@
 module github.com/permguard/permguard-ztauthstar-ledger
 
-go 1.23.5
+go 1.24.1
 
 require (
-	github.com/permguard/permguard-common v0.0.1-0.20250324093240-cdbc35bbee28
+	github.com/permguard/permguard-common v0.0.1-0.20250324235958-a7cfb846171e
 	github.com/stretchr/testify v1.9.0
 )
 
